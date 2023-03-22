@@ -9,5 +9,12 @@
 
 
 - 🌱 I’m currently studying **B.E.CSE (AI & ML)**...
-- ⚡ Fact: ...
-- 📫 Reach me: ...
+- ⚡ Quote : 
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&size=25&pause=1000&color=orange&center=true&vCenter=true&width=450&lines=%22Knowing+Yourself+is+the+Beginning+of+all+Wisdom%22+" alt="Typing SVG" /></a>
+<p align = "right">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&size=25&pause=1200&center=true&vCenter=true&repeat=true&width=400&lines=++++++++++++++++++++++++++++++++++++++++++++++++-+Aristotle+" alt="Typing SVG" /></a>
+</p>
+- 📫 Reach me:
+<p align = "left">
+<a href = "https://linkedin/in/sanjaycsk18" target = "blank"><img align = "center" src
