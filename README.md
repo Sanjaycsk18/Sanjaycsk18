@@ -45,13 +45,12 @@
 <h3>📈 Stats</h3>
 
 <div align = "center" >
-      <img src= "https://github-readme-stats.vercel.app/api?username=Sanjaycsk18&theme=github_dark&show_icons=true" >
+     <img src= "https://github-readme-stats.vercel.app/api?username=Sanjaycsk18&theme=github_dark&show_icons=true" >
 </div>
 <br>
 
 <div align = "center">
-   <a href = "https://quotes-github-readme.vercel.app/api?type=horizontal?quote="Knowing Yourself is the Beginning of all Wisdom"+ - Aristotle&theme=algolia">
-  </a>
+     
 </div>
 
 
