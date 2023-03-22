@@ -47,7 +47,14 @@
 <div align = "center" >
      <img src= "https://github-readme-stats.vercel.app/api?username=Sanjaycsk18&theme=github_dark&show_icons=true" >
 </div>
-<br>
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanjaycsk18&theme=dark&count_private=true&theme=radical)
+
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Sanjaycsk18&theme=onestar&no-frame=true&column=3&row=2&)
+
+
 
 <div align = "center">
      
