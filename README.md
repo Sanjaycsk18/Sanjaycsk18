@@ -17,10 +17,14 @@
 
 *May Be, I'm happy. But am Asymptomatic* 😌☺️
 </p>
+<h4>🔧 Languages & Tools </h4>
+<p align = "left" > <a href = "https://www.w3schools.com/c/" target = "blank"><img align = "center" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width = "35"></a>
+&nbsp;&nbsp;<a href = "https://isocpp.org/" target = "blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width = "35"></a>
+&nbsp;&nbsp;<a href = "https://https://coursera.org/share/4a0ab37e8b4c5c0a62c00cf88412c5ba"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width = "35"></a>
 <h4>📫 Reach me:</h4>
 <p align = "left"><a href = "https://linkedin.com/in/sanjaycsk18" target = "blank"><img align = "center" src = "linkedin-logo-2430.svg" width = "35" alt = "@sanjaycsk18"></a>
-&nbsp;<a href = "https://discordapp.com/users/Sketch_18#4311" target = "blank"><img align="center" src = "discord-mark-blue.svg" width = "35" alt = "@Sketch_18#4311"></a></p>
-<h4>🔧 Languages & Tools</h4>
+&nbsp;&nbsp;<a href = "https://discordapp.com/users/Sketch_18#4311" target = "blank"><img align="center" src = "discord-mark-blue.svg" width = "35" alt = "@Sketch_18#4311"></a></p>
+
 
 
 
