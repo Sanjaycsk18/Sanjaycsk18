@@ -49,9 +49,10 @@
 </div>
 <br>
 
-<p align = "center">
-   <a href = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia"><img align= "center" src= "https://github.com/Sanjaycsk18/Knowing Yourself is the Beginning of all Wisdom - Aristotle></a>
-</p>
+<div align = "center">
+   <a href = "https://quotes-github-readme.vercel.app/api?type=horizontal?quote="Knowing Yourself is the Beginning of all Wisdom"+ - Aristotle&theme=algolia">
+  </a>
+</div>
 
 
 
