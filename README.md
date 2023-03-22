@@ -17,6 +17,6 @@
 </p>
 <h4>📫 Reach me:</h4>
 <p align = "left"><a href = "https://linkedin.com/in/sanjaycsk18" target = "blank"><img align = "center" src = "linkedin-logo-2430.svg" width = "35" alt = "@sanjaycsk18"></a></p>
-<p>&nbsp;<img align="center" src = ""
+<p>&nbsp;<a href = "https://discord.org/Sketch_18#4311" target = "blank"><img align="center" src = ""
 
 
