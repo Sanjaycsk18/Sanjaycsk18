@@ -16,4 +16,4 @@
 </p>
 - 📫 Reach me:
 <p align = "left">
-<a href = "https://linkedin/in/sanjaycsk18" target = "blank"><img align = "center" src
+<a href = "https://linkedin/in/sanjaycsk18" target = "blank"><img align = "center" src = "file:///storage/emulated/0/Download/linkedin-logo-2430.svg" alt = "@sanjaycsk18"></a>
