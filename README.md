@@ -52,13 +52,17 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanjaycsk18&theme=dark&count_private=true&theme=radical)
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Sanjaycsk18&theme=onestar&no-frame=true&column=3&row=2&)
+<p align="center">
+       <a href="https://github.com/Sanjaycsk18">
+     <img width=800 src="https://github-profile-trophy.vercel.app/?username=Sanjaycsk18&column=6&theme=gruvbox&no-frame=true"/>
+   </a>
+</p>
 
 
 
-<div align = "center">
+
      
-</div>
+
 
 
 
