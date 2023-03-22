@@ -16,7 +16,7 @@
 <p align = "right"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&size=25&pause=1200&center=true&vCenter=true&repeat=true&width=400&lines=++++++++++++++++++++++++++++++++++++++++++++++++-+Aristotle+" alt="Typing SVG" /></a>
 </p>
 <h4>📫 Reach me:</h4>
-<p align = "left"><a href = "https://linkedin/in/sanjaycsk18" target = "blank"><img align = "center" src = "linkedin-logo-2430.svg" width = "35" alt = "@sanjaycsk18"></a></p>
+<p align = "left"><a href = "https://linkedin.com/in/sanjaycsk18" target = "blank"><img align = "center" src = "linkedin-logo-2430.svg" width = "35" alt = "@sanjaycsk18"></a></p>
 <p>&nbsp;<img align="center" src = ""
 
 
