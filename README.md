@@ -24,6 +24,8 @@
 <h4>📫 Reach me:</h4>
 <p align = "left"><a href = "https://linkedin.com/in/sanjaycsk18" target = "blank"><img align = "center" src = "linkedin-logo-2430.svg" width = "35" alt = "@sanjaycsk18"></a>
 &nbsp;&nbsp;<a href = "https://discordapp.com/users/Sketch_18#4311" target = "blank"><img align="center" src = "discord-mark-blue.svg" width = "35" alt = "@Sketch_18#4311"></a></p>
+<h4>📈 Stats</h4>
+<p align = "center" ><img src= "https://github-readme-stats.vercel.app/api?username=Sanjaycsk18&theme=react&show_icons=true" ></p>
 
 
 
