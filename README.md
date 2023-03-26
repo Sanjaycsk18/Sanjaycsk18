@@ -1,4 +1,4 @@
-![Header](./github-header.png)
+<img align = "center" height = 400 width = 1000 src = "./github-header.png">
 
 
 <h4> Student at Annamalai University</h4>
