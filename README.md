@@ -45,16 +45,22 @@
 <h3>📈 Stats</h3>
 
 <div align = "center" >
-     <img src= "https://github-readme-stats.vercel.app/api?username=Sanjaycsk18&theme=github_dark&show_icons=true" >
+     <img width = 500 src = "https://github-readme-stats.vercel.app/api?username=Sanjaycsk18&theme=github_dark&show_icons=true" >
 </div>
 
+<br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sanjaycsk18&theme=dark&count_private=true&theme=radical)
+<div align = "center">
+      <a href ="https://github.com/Sanjaycsk18">
+            <img width = 600 src ="https://github-readme-streak-stats.herokuapp.com/?user=Sanjaycsk18&theme=dark&count_private=true&theme=radical"/>
+      </a>
+</div>
 
+<br>
 
-<p align="center">
-       <a href="https://github.com/Sanjaycsk18">
-     <img width=800 src="https://github-profile-trophy.vercel.app/?username=Sanjaycsk18&column=6&theme=gruvbox&no-frame=true"/>
+<p align = "center">
+       <a href = "https://github.com/Sanjaycsk18">
+     <img width = 800 src = "https://github-profile-trophy.vercel.app/?username=Sanjaycsk18&column=6&theme=gruvbox&no-frame=true"/>
    </a>
 </p>
 
