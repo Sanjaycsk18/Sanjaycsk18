@@ -20,7 +20,7 @@
    
      *May Be, I'm happy. But am Asymptomatic* 😌☺️
 
-<h4>🔧 Languages & Tools </h4>
+<h3>🔧 Languages & Tools </h3>
 
 <div align = "left" > 
       <a href = "https://www.w3schools.com/c/" target = "blank"><img align = "center" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width = "35"> 
