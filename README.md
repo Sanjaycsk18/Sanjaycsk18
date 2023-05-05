@@ -65,10 +65,15 @@
    </a>
 </p>
 
+### 🔝 Top Contributed Repo
+<div align = "center">
+     <img width = 800 src = "https://github-contributor-stats.vercel.app/api?username=Sanjaycsk18&limit=5&theme=dracula&combine_all_yearly_contributions=true"/>
+</div>
+
 ## ✍️ Quote
 
 <div align = "center">
-     <img widtth = 800 src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+     <img width = 800 src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
 
 
