@@ -65,7 +65,8 @@
    </a>
 </p>
 
-### ✍️ Quote
+## ✍️ Quote
+
 <div align = "center">
      <img widtth = 800 src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
