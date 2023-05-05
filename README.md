@@ -9,9 +9,8 @@
       </div>
 
 
-<div align = "left">
-     <img src = "https://komarev.com/ghpvc/?username=sanjaycsk18&label=PROFILE+VIEWS&color=ff69b4">
-  </a>
+<div align = "left"> 
+      <img src = "https://komarev.com/ghpvc/?username=sanjaycsk18&label=PROFILE+VIEWS&color=ff69b4">
 </div>
 
 
@@ -28,6 +27,8 @@
       <a href = "https://isocpp.org/" target = "blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width = "35">
   </a>&nbsp;&nbsp;
       <a href = "https://coursera.org/share/4a0ab37e8b4c5c0a62c00cf88412c5ba"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width = "35">
+  </a>&nbsp;&nbsp;
+      <a href = "https://www.canva.com/"><img align="center" src = "https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width ="35">
   </a>
 </div>
 
@@ -68,6 +69,7 @@
 <div align = "center">
      <img widtth = 800 src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
+
 
      
 
