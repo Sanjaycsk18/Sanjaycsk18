@@ -13,13 +13,13 @@
       <img src = "https://komarev.com/ghpvc/?username=sanjaycsk18&label=PROFILE+VIEWS&color=ff69b4">
 </div>
 
-
-- 🌱 I’m currently studying **B.E.CSE (AI & ML)**...
+#  About Me:
+- 🌱 I’m Currently Learning Web Development & Machine Learning 
 - 🎭 **Fun fact** :  
    
      *May Be, I'm happy. But am Asymptomatic* 😌☺️
 
-<h3>🔧 Languages & Tools </h3>
+## 🔧 Skills & Tools 
 
 <div align = "left" > 
       <a href = "https://www.w3schools.com/c/" target = "blank"><img align = "center" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width = "35"> 
@@ -32,7 +32,7 @@
   </a>
 </div>
 
-<h3>📫 Connect with me:</h3>
+## 📫 Connect with me
 
 <div align = "left">
      <a href = "https://linkedin.com/in/sanjaycsk18" target = "blank"><img align = "center" src = "linkedin-logo-2430.svg" width = "35" alt = "@sanjaycsk18">
@@ -43,7 +43,7 @@
   </a>
 </div>
 
-<h3>📈 Stats</h3>
+## 📈 Stats
 
 <div align = "center" >
      <img width = 500 src = "https://github-readme-stats.vercel.app/api?username=Sanjaycsk18&theme=github_dark&show_icons=true" >
