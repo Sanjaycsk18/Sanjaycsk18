@@ -37,7 +37,7 @@
 <div align = "left">
      <a href = "https://linkedin.com/in/sanjaycsk18" target = "blank"><img align = "center" src = "https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width = "35" alt = "@sanjaycsk18">
   </a>&nbsp;&nbsp;
-     <a href = "https://discordapp.com/users/Sketch_18#4311" target = "blank"><img align="center" src = "discord-mark-blue.svg" width = "35" alt = "@Sketch_18#4311">
+     <a href = "https://discordapp.com/users/Sketch_18#4311" target = "blank"><img align="center" src = "https://www.svgrepo.com/show/353655/discord-icon.svg" width = "35" alt = "@Sketch_18#4311">
   </a>&nbsp;&nbsp;
      <a href = "https://github.com/Sanjaycsk18" target = "blank"><img align = "center" src = "https://img.icons8.com/doodle/40/000000/github--v1.png" width = "35">
   </a>
