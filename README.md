@@ -43,7 +43,7 @@
   </a>
 </div>
 
-## 📈 Stats
+# 📈 Stats
 
 <div align = "center" >
      <img width = 500 src = "https://github-readme-stats.vercel.app/api?username=Sanjaycsk18&theme=github_dark&show_icons=true" >
@@ -65,7 +65,7 @@
    </a>
 </p>
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 <div align = "center">
      <img width = 800 src = "https://github-contributor-stats.vercel.app/api?username=Sanjaycsk18&limit=5&theme=dracula&combine_all_yearly_contributions=true"/>
 </div>
