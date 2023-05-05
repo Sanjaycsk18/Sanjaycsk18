@@ -35,7 +35,7 @@
 ## 📫 Connect with me
 
 <div align = "left">
-     <a href = "https://linkedin.com/in/sanjaycsk18" target = "blank"><img align = "center" src = "linkedin-logo-2430.svg" width = "35" alt = "@sanjaycsk18">
+     <a href = "https://linkedin.com/in/sanjaycsk18" target = "blank"><img align = "center" src = "https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width = "35" alt = "@sanjaycsk18">
   </a>&nbsp;&nbsp;
      <a href = "https://discordapp.com/users/Sketch_18#4311" target = "blank"><img align="center" src = "discord-mark-blue.svg" width = "35" alt = "@Sketch_18#4311">
   </a>&nbsp;&nbsp;
