@@ -13,11 +13,13 @@
       <img src = "https://komarev.com/ghpvc/?username=sanjaycsk18&label=PROFILE+VIEWS&color=ff69b4">
 </div>
 
-#  About Me:
+# 🔖 About Me:
 - 🌱 I’m Currently Learning Web Development & Machine Learning 
 - 🎭 **Fun fact** :  
    
      *May Be, I'm happy. But am Asymptomatic* 😌☺️
+
+
 
 ## 🔧 Skills & Tools 
 
@@ -32,6 +34,8 @@
   </a>
 </div>
 
+
+
 ## 📫 Connect with me
 
 <div align = "left">
@@ -43,7 +47,9 @@
   </a>
 </div>
 
-# 📈 Stats
+
+
+## 📈 Stats
 
 <div align = "center" >
      <img width = 500 src = "https://github-readme-stats.vercel.app/api?username=Sanjaycsk18&theme=github_dark&show_icons=true" >
@@ -64,6 +70,8 @@
      <img width = 800 src = "https://github-profile-trophy.vercel.app/?username=Sanjaycsk18&column=6&theme=gruvbox&no-frame=true"/>
    </a>
 </p>
+
+
 
 ## 🔝 Top Contributed Repo
 <div align = "center">
