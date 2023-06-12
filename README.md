@@ -47,41 +47,34 @@
   </a>
 </div>
 
+# 📊 GitHub Stats:
 
-
-## 📈 Stats
-
-<div align = "center" >
-     <img width = 500 src = "https://github-readme-stats.vercel.app/api?username=Sanjaycsk18&theme=github_dark&show_icons=true" >
+<div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=sanjaycsk18&theme=dracula&hide_border=false&include_all_commits=true&count_private=true"><br/>&nbsp;
+</div>
+<div align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaycsk18&theme=dracula&hide_border=false">&nbsp;
+ </div>
+ <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaycsk18&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact">&nbsp;
 </div>
 
-<br>
+## 🏆 GitHub Trophies
 
-<div align = "center">
-      <a href ="https://github.com/Sanjaycsk18">
-            <img width = 600 src ="https://github-readme-streak-stats.herokuapp.com/?user=Sanjaycsk18&theme=dark&count_private=true&theme=radical"/>
-      </a>
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=sanjaycsk18&theme=monokai&no-frame=true&no-bg=false&margin-w=4">
 </div>
 
-<br>
+### 🔝 Top Contributed Repo
 
-<p align = "center">
-       <a href = "https://github.com/Sanjaycsk18">
-     <img width = 800 src = "https://github-profile-trophy.vercel.app/?username=Sanjaycsk18&column=6&theme=gruvbox&no-frame=true"/>
-   </a>
-</p>
-
-
-
-## 🔝 Top Contributed Repo
-<div align = "center">
-     <img width = 800 src = "https://github-contributor-stats.vercel.app/api?username=Sanjaycsk18&limit=5&theme=dracula&combine_all_yearly_contributions=true"/>
+<div align="center">
+      <img src="https://github-contributor-stats.vercel.app/api?username=sanjaycsk18&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
 </div>
 
-## ✍️ Quote
 
-<div align = "center">
-     <img width = 800 src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+### ✍️ Quote
+<div align="center">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 </div>
 
 
